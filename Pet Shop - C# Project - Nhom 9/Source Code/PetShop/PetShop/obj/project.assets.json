@@ -8040,11 +8040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Drive\\Projects\\Pet Shop - C# Project - Nhom 9\\Source Code\\PetShop\\PetShop\\PetShop.csproj",
+      "projectUniqueName": "D:\\GitHub\\PetShopASP.NETCore\\PetShopASP.NETCore\\Pet Shop - C# Project - Nhom 9\\Source Code\\PetShop\\PetShop\\PetShop.csproj",
       "projectName": "PetShop",
-      "projectPath": "D:\\Google Drive\\Projects\\Pet Shop - C# Project - Nhom 9\\Source Code\\PetShop\\PetShop\\PetShop.csproj",
+      "projectPath": "D:\\GitHub\\PetShopASP.NETCore\\PetShopASP.NETCore\\Pet Shop - C# Project - Nhom 9\\Source Code\\PetShop\\PetShop\\PetShop.csproj",
       "packagesPath": "C:\\Users\\tuana\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Drive\\Projects\\Pet Shop - C# Project - Nhom 9\\Source Code\\PetShop\\PetShop\\obj\\",
+      "outputPath": "D:\\GitHub\\PetShopASP.NETCore\\PetShopASP.NETCore\\Pet Shop - C# Project - Nhom 9\\Source Code\\PetShop\\PetShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
